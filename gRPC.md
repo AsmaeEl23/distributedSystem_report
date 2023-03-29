@@ -20,7 +20,7 @@ clients, and we will apply that using Java language.</p>
 <h2><li >gRPC communication patterns (models).</li></h2>
 <ol type="1">
 <h3><li>Source Code</li></h3>
-<a href="[https://github.com/AsmaeEl23/grpc_TP_1](https://github.com/AsmaeEl23/gRPC_P1)">click to see the source code</a>
+<a href="https://github.com/AsmaeEl23/gRPC_P1">click to see the source code</a>
 </ol>
 <h2><li>gRPC chat application.</li></h2>
 <ol type="1">
